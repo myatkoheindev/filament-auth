@@ -19,4 +19,5 @@ class CreateUser extends CreateRecord
     {
         return "User created successfully";
     }
+    
 }
